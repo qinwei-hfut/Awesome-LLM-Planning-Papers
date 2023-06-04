@@ -10,9 +10,8 @@ Awesome-LLM-Planning-Papers is a list of papers investigating and exploring the 
 
 ### Investigattion of  LLMs' planning ability
 
-
 ### Investigattion of  LLMs' other ability(How to investigate the ability of LLMs)
 
 ### Related Datasets/Tasks
 
-- [2022/05/22] *Housekeep: Tidying Virtual Households using Commonsense Reasoning* | [[paper]](https://arxiv.org/abs/2205.10712) | [[project]]([https://github.com/MineDojo/Voyager](https://yashkant.github.io/housekeep/))
+- [2022/05/22] *Housekeep: Tidying Virtual Households using Commonsense Reasoning* | [[paper]](https://arxiv.org/abs/2205.10712) | [[project]](https://yashkant.github.io/housekeep/))

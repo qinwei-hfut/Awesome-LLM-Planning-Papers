@@ -37,4 +37,4 @@ Awesome-LLM-Planning-Papers is a list of papers investigating and exploring the 
 
 - [2022/05/22] *Housekeep: Tidying Virtual Households using Commonsense Reasoning* | [[paper]](https://arxiv.org/abs/2205.10712) | [[project]](https://yashkant.github.io/housekeep/))
 
-- [2022/05/22] *Benchmarking the Spectrum of Agent Capabilities* | [[paper]](https://arxiv.org/abs/2109.06780) | [[project]](https://danijar.com/project/crafter/))
+- [2021/09/12] *Benchmarking the Spectrum of Agent Capabilities* | [[paper]](https://arxiv.org/abs/2109.06780) | [[project]](https://danijar.com/project/crafter/))

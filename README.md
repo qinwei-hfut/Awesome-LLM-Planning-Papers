@@ -14,6 +14,8 @@ Awesome-LLM-Planning-Papers is a list of papers investigating and exploring the 
 
 - [2023/04/30] *HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face* | [[paper]](https://arxiv.org/abs/2303.17580) | [[code]](https://github.com/microsoft/JARVIS)
 
+- [2023/04/07] *Generative Agents: Interactive Simulacra of Human Behavior* | [[paper]](https://arxiv.org/abs/2304.03442) | [[code]](https://github.com/mkturkcan/generative-agents)
+
 
 - [2022/10/16] *Code as Policies: Language Model Programs for Embodied Control* | [[paper]](https://arxiv.org/abs/2112.09332) | [[project]](https://code-as-policies.github.io/)
 
